@@ -1,0 +1,30 @@
+{
+  "name": "test_angularui_router",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "jwcastillo"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angular1.x",
+    "angularUIRouter"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.9",
+    "bootstrap": "~3.3.6",
+    "angular-ui-router": "~0.2.17"
+  }
+}
